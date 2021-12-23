@@ -5,3 +5,7 @@ welcome to essential
 food
 water
 shelter
+
+
+
+thankyou
